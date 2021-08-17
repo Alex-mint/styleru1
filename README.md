@@ -1,6 +1,4 @@
-# styleru1
-
-### Поиск фильмов на TMDb
+# Поиск фильмов на TMDb
 
 ## make_own_db.py
 
